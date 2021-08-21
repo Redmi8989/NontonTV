@@ -4,62 +4,95 @@
       "name": "Nasional",
       "channels": [
         {
-          "name": "ANTV",
+          "name": "ANTV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
           "drm_name": "mncnow"
         },
         {
-          "name": "Bali TV",
+          "name": "Bali TV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd",
           "drm_name": "mncnow"
         },
         {
-          "name": "GTV",
+          "name": "GTV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd",
           "drm_name": "mncnow"
         },
+	{
+          "name": "GTV[vidio]",
+          "http://dituduhmaling.xyz/V11710/GTV.m3u8"
+        },
         {
-          "name": "Indosiar",
+          "name": "Indosiar[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
           "drm_name": "mncnow"
         },
+	{
+          "name": "Indosiar[vidio]",
+          "http://dituduhmaling.xyz/V11710/Indosiar.m3u8"
+        },
         {
-          "name": "Jak TV",
+          "name": "Jak TV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd",
           "drm_name": "mncnow"
+        },
+	{
+          "name": "Jak TV[vidio]",
+          "http://dituduhmaling.xyz/V11710/Jaktv.m3u8"
         },
         {
           "name": "Jogja TV",
           "stream_url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
         },
         {
-          "name": "JTV",
+          "name": "JTV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd",
           "drm_name": "mncnow"
         },
         {
-          "name": "MNC TV",
+          "name": "MNC TV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd",
           "drm_name": "mncnow"
         },
-        {
-          "name": "NET. TV",
-          "stream_url": "http://210.210.155.35/qwr9ew/s/s08/01.m3u8"
+	{
+          "name": "MNC TV[vidio]",
+          "http://dituduhmaling.xyz/V11710/MNC.m3u8"
         },
         {
-          "name": "RCTI",
+          "name": "NET. TV[vidio]",
+          "http://dituduhmaling.xyz/V11710/NET_TV.m3u8"
+        },
+	{
+          "name": "NET. TV[vision+]",
+          "stream_url": "https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
+          "drm_name": "mncnow"
+        },
+ 	{
+          "name": "RCTI[vidio]",
+          "http://dituduhmaling.xyz/V11710/RCTI.m3u8"
+        },
+        {
+          "name": "RCTI[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
           "drm_name": "mncnow"
         },
         {
-          "name": "RTV",
+          "name": "RTV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
           "drm_name": "mncnow"
         },
+	{
+          "name": "RTV[vidio]",
+          "http://dituduhmaling.xyz/V11710/RTV.m3u8"
+        },
         {
-          "name": "SCTV",
+          "name": "SCTV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
           "drm_name": "mncnow"
+        },
+	{
+          "name": "SCTV[vidio]",
+          "http://dituduhmaling.xyz/V11710/SCTV.m3u8"
         },
         {
           "name": "TATV",
@@ -70,18 +103,26 @@
           "stream_url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"
         },
         {
-          "name": "Trans 7 [ALT]",
+          "name": "Trans 7[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
           "drm_name": "mncnow"
+        },
+	{
+          "name": "Trans 7[vidio]",
+          "http://dituduhmaling.xyz/V11710/Trans7.m3u8"
         },
         {
           "name": "Trans TV",
           "stream_url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
         },
         {
-          "name": "Trans TV [ALT]",
+          "name": "Trans TV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd",
           "drm_name": "mncnow"
+        },
+	{
+          "name": "Trans TV[vidio]",
+          "http://dituduhmaling.xyz/V11710/Transtv.m3u8"
         }
       ]
     },
@@ -98,7 +139,7 @@
           "stream_url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
         },
         {
-          "name": "Al Jazeera [ALT]",
+          "name": "Al Jazeera[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd",
           "drm_name": "mncnow"
         },
@@ -107,7 +148,7 @@
           "stream_url": "http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
         },
         {
-          "name": "Arirang [ALT]",
+          "name": "Arirang[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd",
           "drm_name": "mncnow"
         },
@@ -120,7 +161,7 @@
           "stream_url": "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
         },
         {
-          "name": "BBC World News [ALT]",
+          "name": "BBC World News[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd",
           "drm_name": "mncnow"
         },
@@ -129,7 +170,7 @@
           "stream_url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8"
         },
         {
-          "name": "Bloomberg",
+          "name": "Bloomberg[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd",
           "drm_name": "mncnow"
         },
@@ -138,7 +179,7 @@
           "stream_url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
         },
         {
-          "name": "Chnannel News Asia [ALT]",
+          "name": "Chnannel News Asia[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd",
           "drm_name": "mncnow"
         },
@@ -151,17 +192,17 @@
           "stream_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"
         },
         {
-          "name": "CNN International",
+          "name": "CNN International[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd",
           "drm_name": "mncnow"
         },
         {
-          "name": "DW",
+          "name": "DW[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd",
           "drm_name": "mncnow"
         },
         {
-          "name": "FOX News",
+          "name": "FOX News[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd",
           "drm_name": "mncnow"
         },
@@ -171,22 +212,22 @@
           "drm_name": "mncnow"
         },
         {
-          "name": "iNews",
+          "name": "iNews[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd",
           "drm_name": "mncnow"
         },
         {
-          "name": "Kompas TV",
+          "name": "Kompas TV[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
           "drm_name": "mncnow"
         },
         {
-          "name": "Metro TV",
+          "name": "Metro TV[vision+]",
           "stream_url": "https://akamai.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd",
 		  "drm_name": "mncnow"
         },
         {
-          "name": "MNC News",
+          "name": "MNC News[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd",
           "drm_name": "mncnow"
         },
@@ -195,12 +236,12 @@
           "stream_url": "http://210.210.155.66/h/h23/02.m3u8"
         },
         {
-          "name": "NHK World Japan",
+          "name": "NHK World Japan[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd",
           "drm_name": "mncnow"
         },
         {
-          "name": "NHK World Premium",
+          "name": "NHK World Premium[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd",
           "drm_name": "mncnow"
         },
@@ -209,7 +250,7 @@
           "stream_url": "http://36.89.47.217:11935/rrinet/live/index.m3u8"
         },
         {
-          "name": "TV One",
+          "name": "TV One[vision+]",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd",
           "drm_name": "mncnow"
         },
@@ -298,9 +339,25 @@
           "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
           "drm_name": "mncnow"
         },
+	{
+          "name": "Citra Bioskop",
+          "stream_url": "http://dituduhmaling.xyz/V11710/Citrabioskop.m3u8"
+        },
+	{
+          "name": "Citra Drama",
+          "stream_url": "http://dituduhmaling.xyz/V11710/Citradrama.m3u8"
+        },
+	{
+          "name": "Citra Entertainment",
+          "stream_url": "http://dituduhmaling.xyz/V11710/Citraentertainment.m3u8"
+        },
         {
-          "name": "Flik",
+          "name": "Flik[mkc]",
           "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=flik&bandwidth=default&sync=0"
+        },
+	{
+          "name": "Flik[topwin]",
+          "stream_url": "http://topwin-tv.my.id/2/master.m3u8?id=flik"
         },
         {
           "name": "Fox Action Movies",
@@ -356,8 +413,12 @@
           "drm_name": "mncnow"
         },
         {
-          "name": "IMC",
+          "name": "IMC[mkc]",
           "stream_url": "http://mkctvbro.my.id/horas/pakailah.m3u8?id=imc&bandwidth=default&sync=0"
+        },
+	{
+          "name": "IMC[topwin]",
+          "stream_url": "http://topwin-tv.my.id/2/master.m3u8?id=imc"
         },
         {
           "name": "Movie Kingdom",
