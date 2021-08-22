@@ -20,7 +20,7 @@
         },
 	{
           "name": "GTV[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/GTV.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/gtv.m3u8"
         },
         {
           "name": "Indosiar[vision+]",
@@ -29,7 +29,7 @@
         },
 	{
           "name": "Indosiar[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/Indosiar.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/indosiar.m3u8"
         },
         {
           "name": "Jak TV[vision+]",
@@ -38,7 +38,7 @@
         },
 	{
           "name": "Jak TV[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/Jaktv.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/jaktv.m3u8"
         },
         {
           "name": "Jogja TV",
@@ -56,11 +56,11 @@
         },
 	{
           "name": "MNC TV[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/MNC.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/mnc.m3u8"
         },
         {
           "name": "NET. TV[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/NET_TV.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/net-tv.m3u8"
         },
 	{
           "name": "NET. TV[vision+]",
@@ -69,7 +69,7 @@
         },
  	{
           "name": "RCTI[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/RCTI.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/rcti.m3u8"
         },
         {
           "name": "RCTI[vision+]",
@@ -83,7 +83,7 @@
         },
 	{
           "name": "RTV[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/RTV.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/rtv.m3u8"
         },
         {
           "name": "SCTV[vision+]",
@@ -92,7 +92,7 @@
         },
 	{
           "name": "SCTV[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/SCTV.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/sctv.m3u8"
         },
         {
           "name": "TATV",
@@ -109,7 +109,7 @@
         },
 	{
           "name": "Trans 7[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/Trans7.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/trans7.m3u8"
         },
         {
           "name": "Trans TV",
@@ -122,7 +122,7 @@
         },
 	{
           "name": "Trans TV[vidio]",
-          "stream_url": "http://dituduhmaling.xyz/V11710/Transtv.m3u8"
+          "stream_url": "http://gpc.my.id/vidio/trans-tv.m3u8"
         }
       ]
     },
