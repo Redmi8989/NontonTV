@@ -392,7 +392,7 @@
           "drm_name": "mncnow"
         },
         {
-          "name": "HBO[HBO GO]",
+          "name": "HBO HD[HBO GO]",
           "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8"
         },
         {
@@ -401,7 +401,7 @@
           "drm_name": "mncnow"
         },
         {
-          "name": "HBO Family[HBO GO]",
+          "name": "HBO Family HD[HBO GO]",
           "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8"
         },
         {
@@ -410,7 +410,7 @@
           "drm_name": "mncnow"
         },
         {
-          "name": "HBO Hits[HBO GO]",
+          "name": "HBO Hits HD[HBO GO]",
           "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8"
         },
         {
@@ -419,7 +419,7 @@
           "drm_name": "mncnow"
         },
         {
-          "name": "HBO Signature[HBO GO]",
+          "name": "HBO Signature HD[HBO GO]",
           "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8"
         },
         {
