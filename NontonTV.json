@@ -339,6 +339,10 @@
           "stream_url": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
           "drm_name": "mncnow"
         },
+        {
+          "name": "Cinemax[HBO GO]",
+          "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8"
+        },
 	{
           "name": "Citra Bioskop",
           "stream_url": "http://gpc.my.id/vidio/citra-bioskop.m3u8"
@@ -388,9 +392,17 @@
           "drm_name": "mncnow"
         },
         {
+          "name": "HBO[HBO GO]",
+          "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8"
+        },
+        {
           "name": "HBO Family",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
           "drm_name": "mncnow"
+        },
+        {
+          "name": "HBO Family[HBO GO]",
+          "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8"
         },
         {
           "name": "HBO Hits",
@@ -398,9 +410,17 @@
           "drm_name": "mncnow"
         },
         {
+          "name": "HBO Hits[HBO GO]",
+          "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8"
+        },
+        {
           "name": "HBO Signature",
           "stream_url": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd",
           "drm_name": "mncnow"
+        },
+        {
+          "name": "HBO Signature[HBO GO]",
+          "stream_url": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8"
         },
         {
           "name": "Hits",
